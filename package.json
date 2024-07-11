@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "prisma": "^5.16.2"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.16.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "googleapis": "^140.0.1",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.9.14"
+  }
+}
